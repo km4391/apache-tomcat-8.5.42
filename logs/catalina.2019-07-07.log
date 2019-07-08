@@ -1,0 +1,227 @@
+07-Jul-2019 17:20:12.810 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version:        Apache Tomcat/8.5.42
+07-Jul-2019 17:20:13.271 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Jun 4 2019 20:29:04 UTC
+07-Jul-2019 17:20:13.272 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server number:         8.5.42.0
+07-Jul-2019 17:20:13.272 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 8.1
+07-Jul-2019 17:20:13.273 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            6.3
+07-Jul-2019 17:20:13.273 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+07-Jul-2019 17:20:13.273 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jre7
+07-Jul-2019 17:20:13.274 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.7.0_80-b15
+07-Jul-2019 17:20:13.274 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+07-Jul-2019 17:20:13.274 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\root\Desktop\apache-tomcat-8.5.42
+07-Jul-2019 17:20:13.274 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Users\root\Desktop\apache-tomcat-8.5.42
+07-Jul-2019 17:20:13.282 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\root\Desktop\apache-tomcat-8.5.42\conf\logging.properties
+07-Jul-2019 17:20:13.289 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+07-Jul-2019 17:20:13.289 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+07-Jul-2019 17:20:13.289 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+07-Jul-2019 17:20:13.289 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+07-Jul-2019 17:20:13.289 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\root\Desktop\apache-tomcat-8.5.42
+07-Jul-2019 17:20:13.290 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Users\root\Desktop\apache-tomcat-8.5.42
+07-Jul-2019 17:20:13.291 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\root\Desktop\apache-tomcat-8.5.42\temp
+07-Jul-2019 17:20:13.291 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded APR based Apache Tomcat Native library [1.2.21] using APR version [1.6.5].
+07-Jul-2019 17:20:13.292 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+07-Jul-2019 17:20:13.293 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+07-Jul-2019 17:20:13.299 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 1.1.1a  20 Nov 2018]
+07-Jul-2019 17:20:17.217 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+07-Jul-2019 17:20:17.617 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+07-Jul-2019 17:20:17.661 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["ajp-nio-8009"]
+07-Jul-2019 17:20:17.664 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+07-Jul-2019 17:20:17.666 INFO [main] org.apache.catalina.startup.Catalina.load Initialization processed in 12883 ms
+07-Jul-2019 17:20:17.814 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+07-Jul-2019 17:20:17.814 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/8.5.42
+07-Jul-2019 17:20:17.942 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\root\Desktop\apache-tomcat-8.5.42\webapps\docs]
+07-Jul-2019 17:20:19.025 WARNING [localhost-startStop-1] org.apache.catalina.util.SessionIdGeneratorBase.createSecureRandom Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [268] milliseconds.
+07-Jul-2019 17:20:19.110 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\root\Desktop\apache-tomcat-8.5.42\webapps\docs] has finished in [1,168] ms
+07-Jul-2019 17:20:19.111 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\root\Desktop\apache-tomcat-8.5.42\webapps\examples]
+07-Jul-2019 17:20:22.581 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\root\Desktop\apache-tomcat-8.5.42\webapps\examples] has finished in [3,471] ms
+07-Jul-2019 17:20:22.581 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\root\Desktop\apache-tomcat-8.5.42\webapps\host-manager]
+07-Jul-2019 17:20:22.679 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\root\Desktop\apache-tomcat-8.5.42\webapps\host-manager] has finished in [98] ms
+07-Jul-2019 17:20:22.679 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\root\Desktop\apache-tomcat-8.5.42\webapps\manager]
+07-Jul-2019 17:20:22.749 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\root\Desktop\apache-tomcat-8.5.42\webapps\manager] has finished in [70] ms
+07-Jul-2019 17:20:22.750 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\root\Desktop\apache-tomcat-8.5.42\webapps\ROOT]
+07-Jul-2019 17:20:22.829 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\root\Desktop\apache-tomcat-8.5.42\webapps\ROOT] has finished in [79] ms
+07-Jul-2019 17:20:22.835 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+07-Jul-2019 17:20:22.851 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["ajp-nio-8009"]
+07-Jul-2019 17:20:22.855 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in 5188 ms
+07-Jul-2019 17:37:05.039 INFO [main] org.apache.catalina.core.StandardServer.await A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+07-Jul-2019 17:37:05.039 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+07-Jul-2019 17:37:05.605 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["ajp-nio-8009"]
+07-Jul-2019 17:37:05.808 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+07-Jul-2019 17:37:06.351 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+07-Jul-2019 17:37:06.354 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["ajp-nio-8009"]
+07-Jul-2019 17:37:06.357 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+07-Jul-2019 17:37:06.359 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["ajp-nio-8009"]
+07-Jul-2019 17:37:09.923 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version:        Apache Tomcat/8.5.42
+07-Jul-2019 17:37:09.931 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Jun 4 2019 20:29:04 UTC
+07-Jul-2019 17:37:09.932 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server number:         8.5.42.0
+07-Jul-2019 17:37:09.932 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 8.1
+07-Jul-2019 17:37:09.933 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            6.3
+07-Jul-2019 17:37:09.935 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+07-Jul-2019 17:37:09.936 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jre7
+07-Jul-2019 17:37:09.938 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.7.0_80-b15
+07-Jul-2019 17:37:09.943 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+07-Jul-2019 17:37:09.943 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\root\Desktop\apache-tomcat-8.5.42
+07-Jul-2019 17:37:09.943 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Users\root\Desktop\apache-tomcat-8.5.42
+07-Jul-2019 17:37:09.943 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\root\Desktop\apache-tomcat-8.5.42\conf\logging.properties
+07-Jul-2019 17:37:09.943 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+07-Jul-2019 17:37:09.944 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+07-Jul-2019 17:37:09.944 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+07-Jul-2019 17:37:09.944 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+07-Jul-2019 17:37:09.944 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\root\Desktop\apache-tomcat-8.5.42
+07-Jul-2019 17:37:09.945 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Users\root\Desktop\apache-tomcat-8.5.42
+07-Jul-2019 17:37:09.946 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\root\Desktop\apache-tomcat-8.5.42\temp
+07-Jul-2019 17:37:09.946 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded APR based Apache Tomcat Native library [1.2.21] using APR version [1.6.5].
+07-Jul-2019 17:37:09.947 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+07-Jul-2019 17:37:09.948 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+07-Jul-2019 17:37:09.955 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 1.1.1a  20 Nov 2018]
+07-Jul-2019 17:37:10.134 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+07-Jul-2019 17:37:10.154 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+07-Jul-2019 17:37:10.180 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["ajp-nio-8009"]
+07-Jul-2019 17:37:10.185 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+07-Jul-2019 17:37:10.186 INFO [main] org.apache.catalina.startup.Catalina.load Initialization processed in 738 ms
+07-Jul-2019 17:37:10.249 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+07-Jul-2019 17:37:10.250 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/8.5.42
+07-Jul-2019 17:37:10.288 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\root\Desktop\apache-tomcat-8.5.42\webapps\docs]
+07-Jul-2019 17:37:10.878 WARNING [localhost-startStop-1] org.apache.catalina.util.SessionIdGeneratorBase.createSecureRandom Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [210] milliseconds.
+07-Jul-2019 17:37:10.909 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\root\Desktop\apache-tomcat-8.5.42\webapps\docs] has finished in [621] ms
+07-Jul-2019 17:37:10.920 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\root\Desktop\apache-tomcat-8.5.42\webapps\examples]
+07-Jul-2019 17:37:11.548 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\root\Desktop\apache-tomcat-8.5.42\webapps\examples] has finished in [628] ms
+07-Jul-2019 17:37:11.552 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\root\Desktop\apache-tomcat-8.5.42\webapps\host-manager]
+07-Jul-2019 17:37:11.633 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\root\Desktop\apache-tomcat-8.5.42\webapps\host-manager] has finished in [81] ms
+07-Jul-2019 17:37:11.644 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\root\Desktop\apache-tomcat-8.5.42\webapps\manager]
+07-Jul-2019 17:37:11.706 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\root\Desktop\apache-tomcat-8.5.42\webapps\manager] has finished in [61] ms
+07-Jul-2019 17:37:11.720 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\root\Desktop\apache-tomcat-8.5.42\webapps\ROOT]
+07-Jul-2019 17:37:11.756 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\root\Desktop\apache-tomcat-8.5.42\webapps\ROOT] has finished in [36] ms
+07-Jul-2019 17:37:11.761 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+07-Jul-2019 17:37:11.779 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["ajp-nio-8009"]
+07-Jul-2019 17:37:11.783 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in 1597 ms
+07-Jul-2019 18:56:49.822 INFO [Async0-Thread] async.Async0$1.run Putting AsyncThread to sleep
+07-Jul-2019 18:56:51.422 INFO [Async1-Thread] async.Async1$1.run Putting AsyncThread to sleep
+07-Jul-2019 18:56:51.823 INFO [Async0-Thread] async.Async0$1.run Dispatching
+07-Jul-2019 18:56:51.840 INFO [http-nio-8080-exec-3] async.Async0.service Received dispatch, completing on the worker thread.
+07-Jul-2019 18:56:51.841 INFO [http-nio-8080-exec-3] async.Async0.service After complete called started:false
+07-Jul-2019 18:56:52.256 INFO [Async2-Thread] async.Async2$1.run Putting AsyncThread to sleep
+07-Jul-2019 18:56:53.423 INFO [Async1-Thread] async.Async1$1.run Dispatching to /jsp/async/async1.jsp
+07-Jul-2019 18:56:54.257 INFO [Async2-Thread] async.Async2$1.run Writing data.
+07-Jul-2019 19:24:18.038 INFO [localhost-startStop-2] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [C:\Users\root\Desktop\apache-tomcat-8.5.42\webapps\sample.war]
+07-Jul-2019 19:24:18.248 INFO [localhost-startStop-2] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [C:\Users\root\Desktop\apache-tomcat-8.5.42\webapps\sample.war] has finished in [211] ms
+07-Jul-2019 19:27:37.321 INFO [main] org.apache.catalina.core.StandardServer.await A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+07-Jul-2019 19:27:37.321 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+07-Jul-2019 19:27:37.506 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["ajp-nio-8009"]
+07-Jul-2019 19:27:37.680 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+07-Jul-2019 19:27:37.819 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+07-Jul-2019 19:27:37.821 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["ajp-nio-8009"]
+07-Jul-2019 19:27:37.824 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+07-Jul-2019 19:27:37.825 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["ajp-nio-8009"]
+07-Jul-2019 19:27:42.924 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version:        Apache Tomcat/8.5.42
+07-Jul-2019 19:27:42.928 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Jun 4 2019 20:29:04 UTC
+07-Jul-2019 19:27:42.929 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server number:         8.5.42.0
+07-Jul-2019 19:27:42.929 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 8.1
+07-Jul-2019 19:27:42.929 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            6.3
+07-Jul-2019 19:27:42.929 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+07-Jul-2019 19:27:42.929 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jre7
+07-Jul-2019 19:27:42.929 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.7.0_80-b15
+07-Jul-2019 19:27:42.929 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+07-Jul-2019 19:27:42.930 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\root\Desktop\apache-tomcat-8.5.42
+07-Jul-2019 19:27:42.930 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Users\root\Desktop\apache-tomcat-8.5.42
+07-Jul-2019 19:27:42.930 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\root\Desktop\apache-tomcat-8.5.42\conf\logging.properties
+07-Jul-2019 19:27:42.930 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+07-Jul-2019 19:27:42.930 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+07-Jul-2019 19:27:42.931 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+07-Jul-2019 19:27:42.931 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+07-Jul-2019 19:27:42.931 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\root\Desktop\apache-tomcat-8.5.42
+07-Jul-2019 19:27:42.932 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Users\root\Desktop\apache-tomcat-8.5.42
+07-Jul-2019 19:27:42.933 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\root\Desktop\apache-tomcat-8.5.42\temp
+07-Jul-2019 19:27:42.933 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded APR based Apache Tomcat Native library [1.2.21] using APR version [1.6.5].
+07-Jul-2019 19:27:42.934 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+07-Jul-2019 19:27:42.934 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+07-Jul-2019 19:27:42.943 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 1.1.1a  20 Nov 2018]
+07-Jul-2019 19:27:43.556 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+07-Jul-2019 19:27:43.598 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+07-Jul-2019 19:27:43.626 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["ajp-nio-8009"]
+07-Jul-2019 19:27:43.634 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+07-Jul-2019 19:27:43.636 INFO [main] org.apache.catalina.startup.Catalina.load Initialization processed in 1206 ms
+07-Jul-2019 19:27:43.670 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+07-Jul-2019 19:27:43.671 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/8.5.42
+07-Jul-2019 19:27:43.712 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [C:\Users\root\Desktop\apache-tomcat-8.5.42\webapps\sample.war]
+07-Jul-2019 19:27:44.307 WARNING [localhost-startStop-1] org.apache.catalina.util.SessionIdGeneratorBase.createSecureRandom Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [220] milliseconds.
+07-Jul-2019 19:27:44.323 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [C:\Users\root\Desktop\apache-tomcat-8.5.42\webapps\sample.war] has finished in [611] ms
+07-Jul-2019 19:27:44.329 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\root\Desktop\apache-tomcat-8.5.42\webapps\docs]
+07-Jul-2019 19:27:44.389 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\root\Desktop\apache-tomcat-8.5.42\webapps\docs] has finished in [61] ms
+07-Jul-2019 19:27:44.389 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\root\Desktop\apache-tomcat-8.5.42\webapps\examples]
+07-Jul-2019 19:27:45.713 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\root\Desktop\apache-tomcat-8.5.42\webapps\examples] has finished in [1,323] ms
+07-Jul-2019 19:27:45.715 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\root\Desktop\apache-tomcat-8.5.42\webapps\host-manager]
+07-Jul-2019 19:27:45.811 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\root\Desktop\apache-tomcat-8.5.42\webapps\host-manager] has finished in [96] ms
+07-Jul-2019 19:27:45.812 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\root\Desktop\apache-tomcat-8.5.42\webapps\manager]
+07-Jul-2019 19:27:45.898 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\root\Desktop\apache-tomcat-8.5.42\webapps\manager] has finished in [86] ms
+07-Jul-2019 19:27:45.898 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\root\Desktop\apache-tomcat-8.5.42\webapps\ROOT]
+07-Jul-2019 19:27:45.932 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\root\Desktop\apache-tomcat-8.5.42\webapps\ROOT] has finished in [34] ms
+07-Jul-2019 19:27:45.935 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+07-Jul-2019 19:27:45.945 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["ajp-nio-8009"]
+07-Jul-2019 19:27:45.949 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in 2314 ms
+07-Jul-2019 19:33:36.418 INFO [localhost-startStop-2] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\root\Desktop\apache-tomcat-8.5.42\webapps\2025_orange]
+07-Jul-2019 19:33:36.547 INFO [localhost-startStop-2] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\root\Desktop\apache-tomcat-8.5.42\webapps\2025_orange] has finished in [129] ms
+07-Jul-2019 19:41:37.352 INFO [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/2025_orange]
+07-Jul-2019 19:41:37.395 INFO [localhost-startStop-3] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\root\Desktop\apache-tomcat-8.5.42\webapps\AppSec]
+07-Jul-2019 19:41:37.567 INFO [localhost-startStop-3] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\root\Desktop\apache-tomcat-8.5.42\webapps\AppSec] has finished in [172] ms
+07-Jul-2019 19:42:08.120 INFO [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/AppSec]
+07-Jul-2019 19:42:08.148 INFO [localhost-startStop-4] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\root\Desktop\apache-tomcat-8.5.42\webapps\CSGY_9163]
+07-Jul-2019 19:42:08.220 INFO [localhost-startStop-4] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\root\Desktop\apache-tomcat-8.5.42\webapps\CSGY_9163] has finished in [71] ms
+07-Jul-2019 19:54:24.789 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version:        Apache Tomcat/8.5.42
+07-Jul-2019 19:54:24.791 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Jun 4 2019 20:29:04 UTC
+07-Jul-2019 19:54:24.792 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server number:         8.5.42.0
+07-Jul-2019 19:54:24.793 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 8.1
+07-Jul-2019 19:54:24.793 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            6.3
+07-Jul-2019 19:54:24.793 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+07-Jul-2019 19:54:24.793 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jre7
+07-Jul-2019 19:54:24.793 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.7.0_80-b15
+07-Jul-2019 19:54:24.793 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+07-Jul-2019 19:54:24.793 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\root\Desktop\apache-tomcat-8.5.42
+07-Jul-2019 19:54:24.794 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Users\root\Desktop\apache-tomcat-8.5.42
+07-Jul-2019 19:54:24.794 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\root\Desktop\apache-tomcat-8.5.42\conf\logging.properties
+07-Jul-2019 19:54:24.794 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+07-Jul-2019 19:54:24.794 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+07-Jul-2019 19:54:24.794 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+07-Jul-2019 19:54:24.794 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+07-Jul-2019 19:54:24.795 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\root\Desktop\apache-tomcat-8.5.42
+07-Jul-2019 19:54:24.795 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Users\root\Desktop\apache-tomcat-8.5.42
+07-Jul-2019 19:54:24.796 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\root\Desktop\apache-tomcat-8.5.42\temp
+07-Jul-2019 19:54:24.797 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded APR based Apache Tomcat Native library [1.2.21] using APR version [1.6.5].
+07-Jul-2019 19:54:24.797 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+07-Jul-2019 19:54:24.798 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+07-Jul-2019 19:54:24.805 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 1.1.1a  20 Nov 2018]
+07-Jul-2019 19:54:25.445 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+07-Jul-2019 19:54:25.472 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+07-Jul-2019 19:54:25.504 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["ajp-nio-8009"]
+07-Jul-2019 19:54:25.509 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+07-Jul-2019 19:54:25.510 INFO [main] org.apache.catalina.startup.Catalina.load Initialization processed in 1157 ms
+07-Jul-2019 19:54:25.563 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+07-Jul-2019 19:54:25.564 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/8.5.42
+07-Jul-2019 19:54:25.644 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [C:\Users\root\Desktop\apache-tomcat-8.5.42\webapps\sample.war]
+07-Jul-2019 19:54:26.394 WARNING [localhost-startStop-1] org.apache.catalina.util.SessionIdGeneratorBase.createSecureRandom Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [173] milliseconds.
+07-Jul-2019 19:54:26.410 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [C:\Users\root\Desktop\apache-tomcat-8.5.42\webapps\sample.war] has finished in [766] ms
+07-Jul-2019 19:54:26.412 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\root\Desktop\apache-tomcat-8.5.42\webapps\CSGY_9163]
+07-Jul-2019 19:54:26.442 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\root\Desktop\apache-tomcat-8.5.42\webapps\CSGY_9163] has finished in [29] ms
+07-Jul-2019 19:54:26.442 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\root\Desktop\apache-tomcat-8.5.42\webapps\docs]
+07-Jul-2019 19:54:26.475 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\root\Desktop\apache-tomcat-8.5.42\webapps\docs] has finished in [33] ms
+07-Jul-2019 19:54:26.476 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\root\Desktop\apache-tomcat-8.5.42\webapps\examples]
+07-Jul-2019 19:54:27.727 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\root\Desktop\apache-tomcat-8.5.42\webapps\examples] has finished in [1,252] ms
+07-Jul-2019 19:54:27.729 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\root\Desktop\apache-tomcat-8.5.42\webapps\host-manager]
+07-Jul-2019 19:54:27.782 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\root\Desktop\apache-tomcat-8.5.42\webapps\host-manager] has finished in [53] ms
+07-Jul-2019 19:54:27.783 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\root\Desktop\apache-tomcat-8.5.42\webapps\manager]
+07-Jul-2019 19:54:27.856 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\root\Desktop\apache-tomcat-8.5.42\webapps\manager] has finished in [73] ms
+07-Jul-2019 19:54:27.859 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\root\Desktop\apache-tomcat-8.5.42\webapps\ROOT]
+07-Jul-2019 19:54:27.919 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\root\Desktop\apache-tomcat-8.5.42\webapps\ROOT] has finished in [62] ms
+07-Jul-2019 19:54:27.924 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+07-Jul-2019 19:54:27.941 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["ajp-nio-8009"]
+07-Jul-2019 19:54:27.944 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in 2432 ms
+07-Jul-2019 20:05:29.371 INFO [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/CSGY_9163]
+07-Jul-2019 20:05:29.501 INFO [localhost-startStop-2] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\root\Desktop\apache-tomcat-8.5.42\webapps\CSGY]
+07-Jul-2019 20:05:29.527 INFO [localhost-startStop-2] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\root\Desktop\apache-tomcat-8.5.42\webapps\CSGY] has finished in [26] ms
+07-Jul-2019 20:27:13.771 INFO [Thread-5] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+07-Jul-2019 20:27:14.203 INFO [Thread-5] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["ajp-nio-8009"]
+07-Jul-2019 20:27:14.438 INFO [Thread-5] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+07-Jul-2019 20:27:15.461 WARNING [localhost-startStop-3] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [examples] appears to have started a thread named [Timer-0] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+07-Jul-2019 20:27:15.470 INFO [Thread-5] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+07-Jul-2019 20:27:15.472 INFO [Thread-5] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["ajp-nio-8009"]
+07-Jul-2019 20:27:15.517 INFO [Thread-5] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+07-Jul-2019 20:27:15.538 INFO [Thread-5] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["ajp-nio-8009"]
